@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 
   <img align="center" alt="Rayner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rayner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
+  <img align="right" alt="rayner-pic" height="150" style="border-radius:50px;" 
+       src="https://www.imagensanimadas.com/img-star-wars-e-guerra-nas-estrelas-imagem-animada-0038-115170.htm">
 </div>
