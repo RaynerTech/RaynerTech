@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <img align="right" alt="rayner-pic"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif">
-<img align="center" alt="rayner-pic"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif">
+<img align="center" alt="rayner-pic"  height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170904241-cfdf76c1-4fdf-439b-95af-659fdde80207.gif">
 </div>
     
 
