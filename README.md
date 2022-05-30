@@ -38,6 +38,6 @@ Here are some ideas to get you started:
   
     ![Ep1r](https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif)
   
-  <center><img src="https://user-images.githubusercontent.com/38620899/106393900-5aa85880-63d8-11eb-88f1-07ac30adad80.gif"></center>
+  <center><img src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif"></center>
 
 
