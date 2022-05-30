@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ele/dele
 -->
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello, my name is Rayner i'm brazilian!
+
 <h1>Apaixonado por tecnologia e não por uma tecnologia.</h1>
 
 <div align="center">
