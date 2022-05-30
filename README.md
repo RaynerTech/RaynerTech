@@ -33,5 +33,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Rayner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rayner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="rayner-pic" height="150" style="border-radius:50px;" 
-       <iframe src="https://giphy.com/embed/5wikad3qSOqAg" width="480" height="203" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-vintage-retro-5wikad3qSOqAg">via GIPHY</a></p>
+    src="https://giphy.com/embed/5wikad3qSOqAg" width="480" height="203" frameBorder="0" class="giphy-embed" <a href="https://giphy.com/gifs/star-wars-vintage-retro-5wikad3qSOqAg">via GIPHY</a></p>
 </div>
