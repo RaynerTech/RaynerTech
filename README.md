@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div>
-<img align="left" alt="rayner-pic" width"80" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif">
+<img align="rigt" alt="rayner-pic" width"80" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif">
 </div>
     
 
