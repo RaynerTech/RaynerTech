@@ -22,3 +22,6 @@ Here are some ideas to get you started:
      <a href="https://www.linkedin.com/in/rayner-patrick-xavier-lins-b91925149/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   </div>
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+
