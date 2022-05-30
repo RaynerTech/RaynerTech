@@ -32,9 +32,11 @@ Here are some ideas to get you started:
   <img align="center" alt="rayner-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rayner-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="rayner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="rayner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+</div>
+
+<div>
 <img stylealign="left" alt="rayner-pic" width"80" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/49450860/170901946-305fdebd-39c7-43b8-b882-6b26859ccf86.gif">
- 
 </div>
     
 
