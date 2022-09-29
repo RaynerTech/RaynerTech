@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/RaynerTech">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=RaynerTech&show_icons=true&theme=radical&include_all_commits=true&count_public=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaynerTech&layout=compact&langs_count=7&theme=radical"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaynerTech&layout=compact&langs_count=7&theme=radical&count_public=true"/>
 </div>
   <br>
   <div align="center">
